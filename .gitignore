@@ -11,3 +11,6 @@ __pycache__/
 
 # Notebook 检查点
 .ipynb_checkpoints/
+
+# 杂
+待办.txt
